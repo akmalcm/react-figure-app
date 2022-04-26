@@ -24,4 +24,19 @@ User Interface/Frontend
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+Sample Demo Page
+
+### Home page
+![home](https://github.com/akmalcm/react-figure-app/blob/main/home.png)
+
+### Form page
+![form](https://github.com/akmalcm/react-figure-app/blob/main/form.png)
+
+### List page
+![list](https://github.com/akmalcm/react-figure-app/blob/main/list.png)
+
+### Edit page
+![edit](https://github.com/akmalcm/react-figure-app/blob/main/edit.png)
+
+
 Credit: special thanks to Fariz Gaskin on his teachings.
